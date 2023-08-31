@@ -3,7 +3,7 @@ Experience the nostalgia of the classic Snake game brought to life in Python! Di
 
 Features:
 - User-friendly controls: Use arrow keys (Up, Down, Left, Right) to guide the snake's movement.
-- Appetizing fod: The snake must gobble up the food that appear randomly on the grid.
+- Appetizing food: The snake must gobble up the food that appear randomly on the grid.
 - Growing challenge: With each food unit consumed, the snake grows longer, making maneuvering more intricate.
 - Boundary awareness: Avoid hitting the walls of the grid, as it will end the game.
 - Tail management: Be cautious not to collide with your snake's own tail, which will also lead to a game over.
