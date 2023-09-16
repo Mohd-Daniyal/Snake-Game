@@ -9,6 +9,8 @@ Features:
 - Tail management: Be cautious not to collide with your snake's own tail, which will also lead to a game over.
 - Score tracking: Keep track of your score as it increases with each food item eaten.
 - High score competition: Challenge yourself to beat your previous best score and become the ultimate Snake master.
+  
+  ![Screenshot 2023-09-16 192312](https://github.com/Mohd-Daniyal/Snake-Game/assets/96229438/7d672051-5a75-4703-a8bc-a070cac1d783)
 
 This Python implementation of the Snake game offers a balance of strategy and quick reflexes. Whether you're new to the game or reliving its retro charm, the Classic Snake Game in Python guarantees hours of fun and excitement as you aim to create the longest snake and achieve the highest score!
 
